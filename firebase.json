@@ -1,0 +1,17 @@
+{
+  "hosting": {
+    "public": "build",
+    "target": "preview-drens",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ],
+    "rewrites": [
+      {
+        "source": "**",
+        "destination": "/index.html"
+      }
+    ]
+  }
+}

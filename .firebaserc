@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "uipreview"
+  },
+  "targets": {
+    "uipreview": {
+      "hosting": {
+        "preview-drens": [
+          "preview-drens"
+        ]
+      }
+    }
+  }
+}

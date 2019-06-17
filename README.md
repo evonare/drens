@@ -1,4 +1,4 @@
 ### Drens
-An Open Source template for building beautiful websites in React
+An Open Source website template for Book authors
 
-Check Live Preview on [Firebase](https://drens.ui.appzaib.design/).
+Check Live Preview at [Appzaib Design](https://drens.ui.appzaib.design/).
